@@ -50,6 +50,8 @@
 <img width="1440" alt="Screenshot 2023-07-17 at 11 58 10 AM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/fcd276e5-27be-4c21-be94-4140ad310a6a">
 <img width="1440" alt="Screenshot 2023-07-17 at 11 58 52 AM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/742ed273-6747-46d9-9cbc-1d83c054621b">
 <img width="1440" alt="Screenshot 2023-07-17 at 11 58 49 AM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/ddbd059a-ad5a-4aa6-b316-801e308788f8">
+<img width="1440" alt="Screenshot 2023-07-17 at 12 06 18 PM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/18a5a863-1c6c-4587-8788-91e6a80f826b">
+<img width="1440" alt="Screenshot 2023-07-17 at 12 06 24 PM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/3a24fe8c-6972-45d6-a6a9-5a7f08a35ecc">
 
 ## Technologies Used
 - ReactJs
