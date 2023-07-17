@@ -1,0 +1,24 @@
+.item-container{
+    padding: 10px;
+    background-color: aquamarine;
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    height: 425px;
+}
+h1{
+    background-color: aquamarine;
+}
+.container{
+    background-color: aquamarine;
+    width: 100%;
+}
+
+.item-container-inside{
+      display: flex;
+}
+.content{
+      margin: 10px;
+      display: flex;
+      flex-direction: column;
+}
