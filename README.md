@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2023-07-17 at 11 51 29 AM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/33ee4a2a-36aa-4ec4-a373-b55931bc4817">## Title 
+## Title 
 
 <h1>Spotify Clone using Reactjs</h1>
 
@@ -12,9 +12,9 @@
 - Playlists: list of music playlist created by user, and also a button to create more playlist.
 
 
-## Video
+## Demo
 
-
+<img width="1440" alt="Screenshot 2023-07-17 at 11 51 29 AM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/33ee4a2a-36aa-4ec4-a373-b55931bc4817">
 <img width="1440" alt="Screenshot 2023-07-17 at 11 56 42 AM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/2ab4c349-8630-4a0d-bf8b-ccaa1ab24924">
 <img width="1440" alt="Screenshot 2023-07-17 at 11 56 50 AM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/640e7595-7d14-4b68-9a99-339eda02898e">
 <img width="1440" alt="Screenshot 2023-07-17 at 11 56 48 AM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/0f6e5f0e-2e23-4c69-89b7-7887ae3c10b8">
@@ -52,11 +52,6 @@
 <img width="1440" alt="Screenshot 2023-07-17 at 11 58 49 AM" src="https://github.com/Bhavu2412/Internship-spotify_clone-React/assets/102239817/ddbd059a-ad5a-4aa6-b316-801e308788f8">
 
 ## Technologies Used
-
-
-
-
-
 - ReactJs
 - Bootstrap-ReactJs
 - RapidAPI
